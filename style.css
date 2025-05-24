@@ -1,0 +1,17 @@
+body{
+  background:#ecf0f1;
+}
+.first{
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+.first span{
+  font-size: 40px;
+  color: #8e44ad;
+  font-weight: 900;
+}
+.allNumber{
+  display: flex; 
+  column-gap: 50px;
+}
